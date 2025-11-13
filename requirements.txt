@@ -6,3 +6,6 @@ scikit-learn
 nltk
 joblib
 streamlit
+transformers
+torch
+sentence-transformers
